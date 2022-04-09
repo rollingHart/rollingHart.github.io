@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>闲聊轩</title>
-    <link>https://rollingHart.github.io/</link>
-    <description>Recent content on 闲聊轩</description>
+    <title>Posts on 闲聊轩</title>
+    <link>https://rollingHart.github.io/posts/</link>
+    <description>Recent content in Posts on 闲聊轩</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Apr 2022 15:31:16 -0700</lastBuildDate><atom:link href="https://rollingHart.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Apr 2022 15:31:16 -0700</lastBuildDate><atom:link href="https://rollingHart.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>欲速则不达</title>
       <link>https://rollingHart.github.io/posts/murmur/2022-04-09/</link>
